@@ -5,4 +5,4 @@
 
 ### Site
 
-Talita Bernardes Pereira | [http://bernardes.tecnologia.ws](http://bernardes.tecnologia.ws)
+Talita Bernardes Pereira - [http://bernardes.tecnologia.ws](http://bernardes.tecnologia.ws)
